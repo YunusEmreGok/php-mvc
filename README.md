@@ -1,2 +1,3 @@
 # php-mvc
-Php Composer MVC
+
+PHP MVC mimarisi.
